@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tgulacsi/goracle/oracle"
+	"github.com/zhaocloud/goracle/oracle"
 )
 
 var fDsn = flag.String("dsn", "", "Oracle DSN")

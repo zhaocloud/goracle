@@ -21,8 +21,8 @@ import (
 	"os"
 
 	"github.com/juju/errgo/errors"
-	_ "github.com/tgulacsi/goracle/godrv"
-	"github.com/tgulacsi/goracle/oracle"
+	_ "github.com/zhaocloud/goracle/godrv"
+	"github.com/zhaocloud/goracle/oracle"
 )
 
 var (

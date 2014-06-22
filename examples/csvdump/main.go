@@ -28,9 +28,9 @@ import (
 	"time"
 
 	"github.com/juju/errgo/errors"
-	"github.com/tgulacsi/goracle/examples/connect"
-	// "github.com/tgulacsi/goracle/godrv"
-	"github.com/tgulacsi/goracle/oracle"
+	"github.com/zhaocloud/goracle/examples/connect"
+	// "github.com/zhaocloud/goracle/godrv"
+	"github.com/zhaocloud/goracle/oracle"
 )
 
 func getQuery(table, where string, columns []string) string {

@@ -27,7 +27,7 @@ import (
     "unsafe"
 
     "github.com/juju/errgo"
-    "github.com/tgulacsi/goracle/oracle"
+    "github.com/zhaocloud/goracle/oracle"
 )
 
 var (
